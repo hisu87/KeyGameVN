@@ -1,3 +1,44 @@
+# 📠 EPOS
+## 📝 Project Description:
+Epos is a project No, Low-Code Point of Sale System for end user, small mom & pop stores are looking to accept SPL tokens, especially SOL & USDC/USDT. However they have no developer resources and are technically limited.
+<br>
+The integration of No/Low-Code platforms with Blockchain technology represents a significant leap forward for small businesses, enabling them to streamline their operations without extensive technical expertise. These platforms facilitate the creation of POS systems that are not only cost-effective but also secure and transparent, leveraging the inherent benefits of Blockchain such as enhanced data integrity and trust. As the digital economy expands, such innovations offer small retailers a competitive edge, allowing them to operate more efficiently and tap into new market opportunities.
+### 🎯 Target:
+
+The goal of this project is to create a NO/LOW-Code POS solution that makes it easy for small stores to access and deploy a blockchain-based POS system. This solution will help the store:
+
+Increase operational efficiency: automate manual tasks, minimize errors and save time.
+Access to Blockchain technology: Allows the store to accept payment in virtual currencies and record transaction history in a transparent and safe manner.
+Easy to use: Provides an intuitive and simple interface, does not require programming knowledge.
+Reduce costs: Save the cost of buying software and renting programmers.
+### 📊 Benefit:
+
+Saving time and money: The project will help stores save time and money by automating manual tasks and minimizing errors.
+Increase revenue: Allows the store to reach new customers using virtual currencies to pay.
+Improve operational efficiency: Provide detailed information about sales and inventories to help the store make a more wise business decision.
+Enhance security: Blockchain technology helps to secure trading data and prevent fraud.
+### 🌐 How to operate:
+
+The project will provide a NO/LOW-Code platform that allows users to create and customize their own POS system without writing code. This platform will include the following features:
+
+POS sample: Provides pre -designed POS models for different types of businesses.
+Integrated payment: Allows the store to accept payment in cash, credit cards and virtual currencies.
+Inventory management: Monitoring inventory level and creating purchasing orders.
+Report and analysis: Provide detailed information about sales, inventory and performance of employees.
+### 💻 Technology:
+
+The project will use the following technologies:
+
+Blockchain: To record transaction history in a transparent and safe manner.
+NO/LOW-Code: To create an easy-to-use platform for users without programming knowledge.
+Cloud Computing: to provide storage services and expansion ability.
+Solana Pay SDK: For transaction.
+### Potential:
+
+This project has great potential to help small stores access blockchain technology and improve their performance. With the rapid development of the virtual currency market, this project can play an important role in promoting the application of blockchain in the retail sector.
+
+-----------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
