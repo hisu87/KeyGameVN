@@ -1,0 +1,184 @@
+Return-Path: <>
+Delivered-To: pinkyid1@s103d190-u2.interdata.vn
+Received: from s103d190-u2.interdata.vn
+	by s103d190-u2.interdata.vn with LMTP
+	id eCEXE8tHLWbPOBMAAflTLA
+	(envelope-from <>)
+	for <pinkyid1@s103d190-u2.interdata.vn>; Sun, 28 Apr 2024 01:45:31 +0700
+Return-path: <>
+Envelope-to: pinkyid1@s103d190-u2.interdata.vn
+Delivery-date: Sun, 28 Apr 2024 01:45:31 +0700
+Received: from mailnull by s103d190-u2.interdata.vn with local (Exim 4.96.2)
+	id 1s0n3D-005Hsn-0t
+	for pinkyid1@s103d190-u2.interdata.vn;
+	Sun, 28 Apr 2024 01:45:31 +0700
+X-Failed-Recipients: vanhuong100704@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@s103d190-u2.interdata.vn>
+To: pinkyid1@s103d190-u2.interdata.vn
+References: <D2OIPQBsnduu6S9TswFFFinw3zHCKDJL7tt60XCx8Aw@pinky204.id.vn>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1714243531-eximdsn-1481794990
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1s0n3D-005Hsn-0t@s103d190-u2.interdata.vn>
+Date: Sun, 28 Apr 2024 01:45:31 +0700
+
+--1714243531-eximdsn-1481794990
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  vanhuong100704@gmail.com
+    host gmail-smtp-in.l.google.com [172.217.194.27]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 This mail has been blocked because the sender is unauthenticated.
+    550-5.7.26 Gmail requires all senders to authenticate with either SPF or DKIM.
+    550-5.7.26
+    550-5.7.26  Authentication results:
+    550-5.7.26  DKIM = did not pass
+    550-5.7.26  SPF [s103d190-u2.interdata.vn] with ip:
+    [103.169.35.190] = did not
+    550-5.7.26 pass
+    550-5.7.26
+    550-5.7.26  For instructions on setting up authentication, go to
+    550 5.7.26  https://support.google.com/mail/answer/81126#authentication c198-20020a6335cf000000b0060477fd5367si8117153pga.702 - gsmtp
+
+--1714243531-eximdsn-1481794990
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; s103d190-u2.interdata.vn
+
+Action: failed
+Final-Recipient: rfc822;vanhuong100704@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 This mail has been blocked because the sender is unauthenticated.
+ 550-5.7.26 Gmail requires all senders to authenticate with either SPF or DKIM.
+ 550-5.7.26
+ 550-5.7.26  Authentication results:
+ 550-5.7.26  DKIM = did not pass
+ 550-5.7.26  SPF [s103d190-u2.interdata.vn] with ip: [103.169.35.190] = did not
+ 550-5.7.26 pass
+ 550-5.7.26
+ 550-5.7.26  For instructions on setting up authentication, go to
+ 550 5.7.26  https://support.google.com/mail/answer/81126#authentication c198-20020a6335cf000000b0060477fd5367si8117153pga.702 - gsmtp
+
+--1714243531-eximdsn-1481794990
+Content-type: message/rfc822
+
+Return-path: <pinkyid1@s103d190-u2.interdata.vn>
+Received: from pinkyid1 by s103d190-u2.interdata.vn with local (Exim 4.96.2)
+	(envelope-from <pinkyid1@s103d190-u2.interdata.vn>)
+	id 1s0n3B-005HsB-0W
+	for vanhuong100704@gmail.com;
+	Sun, 28 Apr 2024 01:45:29 +0700
+To: vanhuong100704@gmail.com
+Subject: =?UTF-8?B?VMOgaSBraG/huqNuIGPhu6dhIGLhuqFuIOG7nyDihJnwnZWA4oSV8J2Vgg==?=  =?UTF-8?B?8J2VkCDEkcOjIMSRxrDhu6NjIHThuqFvIQ==?=
+X-PHP-Script: pinky204.id.vn/index.php for 27.74.105.139
+X-PHP-Filename: /home/pinkyid1/public_html/index.php REMOTE_ADDR: 27.74.105.139
+Date: Sat, 27 Apr 2024 18:45:29 +0000
+From: pinky204 <chikhanh77677@gmail.com>
+Reply-To: pinky204 <chikhanh77677@gmail.com>
+Message-ID: <D2OIPQBsnduu6S9TswFFFinw3zHCKDJL7tt60XCx8Aw@pinky204.id.vn>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="vi">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta content="width=device-width, initial-scale=1.0" name="viewport">
+		<title>ℙ𝕀ℕ𝕂𝕐</title>
+	<style type="text/css">@media screen and (max-width: 600px){#header_wrapper{padding: 27px 36px !important; font-size: 24px;}#body_content_inner{font-size: 10px !important;}}</style>
+</head>
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="background-color: #f7f7f7; padding: 0; text-align: center;" bgcolor="#f7f7f7">
+		<table width="100%" id="outer_wrapper" style="background-color: #f7f7f7;" bgcolor="#f7f7f7">
+			<tr>
+				<td><!-- Deliberately empty to support consistent sizing and layout across multiple email clients. --></td>
+				<td width="600">
+					<div id="wrapper" dir="ltr" style="margin: 0 auto; padding: 70px 0; width: 100%; max-width: 600px; -webkit-text-size-adjust: none;" width="100%">
+						<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+							<tr>
+								<td align="center" valign="top">
+									<div id="template_header_image">
+																			</div>
+									<table border="0" cellpadding="0" cellspacing="0" width="100%" id="template_container" style="background-color: #fff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,.1); border-radius: 3px;" bgcolor="#fff">
+										<tr>
+											<td align="center" valign="top">
+												<!-- Header -->
+												<table border="0" cellpadding="0" cellspacing="0" width="100%" id="template_header" style='background-color: #7f54b3; color: #fff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif; border-radius: 3px 3px 0 0;' bgcolor="#7f54b3">
+													<tr>
+														<td id="header_wrapper" style="padding: 36px 48px; display: block;">
+															<h1 style='font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #9976c2; color: #fff; background-color: inherit;' bgcolor="inherit">Chào mừng tới ℙ𝕀ℕ𝕂𝕐</h1>
+														</td>
+													</tr>
+												</table>
+												<!-- End Header -->
+											</td>
+										</tr>
+										<tr>
+											<td align="center" valign="top">
+												<!-- Body -->
+												<table border="0" cellpadding="0" cellspacing="0" width="100%" id="template_body">
+													<tr>
+														<td valign="top" id="body_content" style="background-color: #fff;" bgcolor="#fff">
+															<!-- Content -->
+															<table border="0" cellpadding="20" cellspacing="0" width="100%">
+																<tr>
+																	<td valign="top" style="padding: 48px 48px 32px;">
+																		<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif; font-size: 14px; line-height: 150%; text-align: left;' align="left">
+
+<p style="margin: 0 0 16px;">Xin chào vanhuong100704,</p>
+<p style="margin: 0 0 16px;">Cảm ơn bạn đã tạo tài khoản ở ℙ𝕀ℕ𝕂𝕐. Tên tài khoản của bạn là <strong>vanhuong100704</strong>. Bạn có thể truy cập trang tài khoản để xem đơn hàng, đổi mật khẩu, và nhiều thứ khác tại: <a href="http://pinky204.id.vn/my-account/" style="color: #7f54b3; font-weight: normal; text-decoration: underline;">http://pinky204.id.vn/my-account/</a></p>
+		<p style="margin: 0 0 16px;"><a href="http://pinky204.id.vn/my-account/lost-password/?action=newaccount&amp;key=cDii9ww87uvXLSOiNuNV&amp;login=vanhuong100704" style="color: #7f54b3; font-weight: normal; text-decoration: underline;">Click để nhập mật khẩu mới.</a></p>
+
+<p style="margin: 0 0 16px;">We look forward to seeing you soon.</p>
+																		</div>
+																	</td>
+																</tr>
+															</table>
+															<!-- End Content -->
+														</td>
+													</tr>
+												</table>
+												<!-- End Body -->
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="100%" id="template_footer">
+										<tr>
+											<td valign="top" style="padding: 0; border-radius: 6px;">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+													<tr>
+														<td colspan="2" valign="middle" id="credit" style='border-radius: 6px; border: 0; color: #8a8a8a; font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif; font-size: 12px; line-height: 150%; text-align: center; padding: 24px 0;' align="center">
+															<p style="margin: 0 0 16px;">ℙ𝕀ℕ𝕂𝕐 — Built with <a href="https://woocommerce.com" style="color: #7f54b3; font-weight: normal; text-decoration: underline;">WooCommerce</a></p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<!-- End Footer -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</td>
+				<td><!-- Deliberately empty to support consistent sizing and layout across multiple email clients. --></td>
+			</tr>
+		</table>
+	</body>
+</html>
+
+
+--1714243531-eximdsn-1481794990--

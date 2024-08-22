@@ -1,0 +1,1 @@
+(function(){"use strict";(function(e){function t(){e("select[name*=_network] option").filter(":selected").val()==="devnet"?(e("tr.live_only").hide(),e("tr.testmode_only,span.testmode_only").show()):(e("tr.live_only").show(),e("tr.testmode_only,span.testmode_only").hide())}function n(){t()}function o(){window.onchange=n,n()}e("document").ready(o)})(jQuery)})();

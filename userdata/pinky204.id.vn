@@ -1,0 +1,25 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/pinky204.id.vn
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/pinky204.id.vn-bytes_log
+documentroot: /home/pinkyid1/public_html
+group: pinkyid1
+hascgi: 1
+homedir: /home/pinkyid1
+ip: 103.169.35.190
+owner: root
+phpopenbasedirprotect: 1
+port: 80
+scriptalias: 
+  - 
+    path: /home/pinkyid1/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@pinky204.id.vn
+serveralias: mail.pinky204.id.vn www.pinky204.id.vn
+servername: pinky204.id.vn
+usecanonicalname: 'Off'
+user: pinkyid1

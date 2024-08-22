@@ -1,0 +1,39 @@
+Return-Path: <pinkyid1@s103d190-u2.interdata.vn>
+Delivered-To: pinkyid1@s103d190-u2.interdata.vn
+Received: from s103d190-u2.interdata.vn
+	by s103d190-u2.interdata.vn with LMTP
+	id iC4yK7c0ImYE7yMAAflTLA
+	(envelope-from <pinkyid1@s103d190-u2.interdata.vn>)
+	for <pinkyid1@s103d190-u2.interdata.vn>; Fri, 19 Apr 2024 16:09:11 +0700
+Return-path: <pinkyid1@s103d190-u2.interdata.vn>
+Envelope-to: admin@pinky204.id.vn
+Delivery-date: Fri, 19 Apr 2024 16:09:11 +0700
+Received: from pinkyid1 by s103d190-u2.interdata.vn with local (Exim 4.96.2)
+	(envelope-from <pinkyid1@s103d190-u2.interdata.vn>)
+	id 1rxkF5-009uD1-25
+	for admin@pinky204.id.vn;
+	Fri, 19 Apr 2024 16:09:11 +0700
+To: admin@pinky204.id.vn
+Subject: New WordPress Site
+Date: Fri, 19 Apr 2024 09:09:11 +0000
+From: WordPress <wordpress@pinky204.id.vn>
+Message-ID: <bCmBQzXBxxhbrU2PodHErrjawFUZsJjviSlLlKLurBg@pinky204.id.vn>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Your new WordPress site has been successfully set up at:
+
+https://pinky204.id.vn
+
+You can log in to the administrator account with the following information:
+
+Username: pinkyid1
+Password: The password you chose during installation.
+Log in here: https://pinky204.id.vn/wp-login.php
+
+We hope you enjoy your new site. Thanks!
+
+--The WordPress Team
+https://wordpress.org/
+

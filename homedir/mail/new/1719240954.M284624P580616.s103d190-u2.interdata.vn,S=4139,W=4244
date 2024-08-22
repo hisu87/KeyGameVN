@@ -1,0 +1,105 @@
+Return-Path: <>
+Delivered-To: pinkyid1@s103d190-u2.interdata.vn
+Received: from s103d190-u2.interdata.vn
+	by s103d190-u2.interdata.vn with LMTP
+	id GOHcEPqIeWYI3AgAAflTLA
+	(envelope-from <>)
+	for <pinkyid1@s103d190-u2.interdata.vn>; Mon, 24 Jun 2024 14:55:54 +0000
+Return-path: <>
+Envelope-to: pinkyid1@s103d190-u2.interdata.vn
+Delivery-date: Mon, 24 Jun 2024 21:55:54 +0700
+Received: from mailnull by s103d190-u2.interdata.vn with local (Exim 4.97.1)
+	id 1sLl6o-00000002Rrk-0J4T
+	for pinkyid1@s103d190-u2.interdata.vn;
+	Mon, 24 Jun 2024 21:55:54 +0700
+X-Failed-Recipients: vanhuong77677@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@s103d190-u2.interdata.vn>
+To: pinkyid1@s103d190-u2.interdata.vn
+References: <S01dTG4KWlKZEhrLrVwkxqhwJrgG6JiNxmdTHUDWVvw@pinky204.id.vn>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1719240953-eximdsn-2024485219
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sLl6o-00000002Rrk-0J4T@s103d190-u2.interdata.vn>
+Date: Mon, 24 Jun 2024 21:55:54 +0700
+
+--1719240953-eximdsn-2024485219
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  vanhuong77677@gmail.com
+    host gmail-smtp-in.l.google.com [142.251.170.26]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Your email has been blocked because the sender is unauthenticated.
+    550-5.7.26 Gmail requires all senders to authenticate with either SPF or DKIM.
+    550-5.7.26
+    550-5.7.26  Authentication results:
+    550-5.7.26  DKIM = did not pass
+    550-5.7.26  SPF [s103d190-u2.interdata.vn] with ip:
+    [103.169.35.190] = did not
+    550-5.7.26 pass
+    550-5.7.26
+    550-5.7.26  For instructions on setting up authentication, go to
+    550 5.7.26  https://support.google.com/mail/answer/81126#authentication 98e67ed59e1d1-2c7e5af9b4fsi8325788a91.120 - gsmtp
+
+--1719240953-eximdsn-2024485219
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; s103d190-u2.interdata.vn
+
+Action: failed
+Final-Recipient: rfc822;vanhuong77677@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Your email has been blocked because the sender is unauthenticated.
+ 550-5.7.26 Gmail requires all senders to authenticate with either SPF or DKIM.
+ 550-5.7.26
+ 550-5.7.26  Authentication results:
+ 550-5.7.26  DKIM = did not pass
+ 550-5.7.26  SPF [s103d190-u2.interdata.vn] with ip: [103.169.35.190] = did not
+ 550-5.7.26 pass
+ 550-5.7.26
+ 550-5.7.26  For instructions on setting up authentication, go to
+ 550 5.7.26  https://support.google.com/mail/answer/81126#authentication 98e67ed59e1d1-2c7e5af9b4fsi8325788a91.120 - gsmtp
+
+--1719240953-eximdsn-2024485219
+Content-type: message/rfc822
+
+Return-path: <pinkyid1@s103d190-u2.interdata.vn>
+Received: from pinkyid1 by s103d190-u2.interdata.vn with local (Exim 4.97.1)
+	(envelope-from <pinkyid1@s103d190-u2.interdata.vn>)
+	id 1sLl6h-00000002RoI-0eRl
+	for vanhuong77677@gmail.com;
+	Mon, 24 Jun 2024 21:55:47 +0700
+To: vanhuong77677@gmail.com
+Subject: =?us-ascii?Q?[pham_van_huong]_Payment_gateway_"CryptoPay_Lit?=
+ =?us-ascii?Q?e"_enabled?=
+Date: Mon, 24 Jun 2024 14:55:47 +0000
+From: WordPress <wordpress@pinky204.id.vn>
+Message-ID: <S01dTG4KWlKZEhrLrVwkxqhwJrgG6JiNxmdTHUDWVvw@pinky204.id.vn>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Howdy admin,
+
+The payment gateway "CryptoPay Lite" was just enabled on this site:
+https://pinky204.id.vn
+
+If this was intentional you can safely ignore and delete this email.
+
+If you did not enable this payment gateway, please log in to your site and consider disabling it here:
+https://pinky204.id.vn/wp-admin/admin.php?page=wc-settings&tab=checkout&section=cryptopay_lite
+
+This email has been sent to vanhuong77677@gmail.com
+
+Regards,
+All at pham van huong
+https://pinky204.id.vn
+
+
+--1719240953-eximdsn-2024485219--

@@ -1,0 +1,105 @@
+Return-Path: <>
+Delivered-To: pinkyid1@s103d190-u2.interdata.vn
+Received: from s103d190-u2.interdata.vn
+	by s103d190-u2.interdata.vn with LMTP
+	id 4D4TOVtAImZGoCUAAflTLA
+	(envelope-from <>)
+	for <pinkyid1@s103d190-u2.interdata.vn>; Fri, 19 Apr 2024 16:58:51 +0700
+Return-path: <>
+Envelope-to: pinkyid1@s103d190-u2.interdata.vn
+Delivery-date: Fri, 19 Apr 2024 16:58:51 +0700
+Received: from mailnull by s103d190-u2.interdata.vn with local (Exim 4.96.2)
+	id 1rxl19-00ALTp-2u
+	for pinkyid1@s103d190-u2.interdata.vn;
+	Fri, 19 Apr 2024 16:58:51 +0700
+X-Failed-Recipients: chikhanh77677@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@s103d190-u2.interdata.vn>
+To: pinkyid1@s103d190-u2.interdata.vn
+References: <As3Jz4pjI2IexwcBahRKmrsz94JQIFCPSKsXhG4Iug@pinky204.id.vn>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1713520731-eximdsn-295856223
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rxl19-00ALTp-2u@s103d190-u2.interdata.vn>
+Date: Fri, 19 Apr 2024 16:58:51 +0700
+
+--1713520731-eximdsn-295856223
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  chikhanh77677@gmail.com
+    host gmail-smtp-in.l.google.com [173.194.174.27]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 This mail has been blocked because the sender is unauthenticated.
+    550-5.7.26 Gmail requires all senders to authenticate with either SPF or DKIM.
+    550-5.7.26
+    550-5.7.26  Authentication results:
+    550-5.7.26  DKIM = did not pass
+    550-5.7.26  SPF [s103d190-u2.interdata.vn] with ip:
+    [103.169.35.190] = did not
+    550-5.7.26 pass
+    550-5.7.26
+    550-5.7.26  For instructions on setting up authentication, go to
+    550 5.7.26  https://support.google.com/mail/answer/81126#authentication v14-20020a170903238e00b001e3f248a847si3044398plh.84 - gsmtp
+
+--1713520731-eximdsn-295856223
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; s103d190-u2.interdata.vn
+
+Action: failed
+Final-Recipient: rfc822;chikhanh77677@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 This mail has been blocked because the sender is unauthenticated.
+ 550-5.7.26 Gmail requires all senders to authenticate with either SPF or DKIM.
+ 550-5.7.26
+ 550-5.7.26  Authentication results:
+ 550-5.7.26  DKIM = did not pass
+ 550-5.7.26  SPF [s103d190-u2.interdata.vn] with ip: [103.169.35.190] = did not
+ 550-5.7.26 pass
+ 550-5.7.26
+ 550-5.7.26  For instructions on setting up authentication, go to
+ 550 5.7.26  https://support.google.com/mail/answer/81126#authentication v14-20020a170903238e00b001e3f248a847si3044398plh.84 - gsmtp
+
+--1713520731-eximdsn-295856223
+Content-type: message/rfc822
+
+Return-path: <pinkyid1@s103d190-u2.interdata.vn>
+Received: from pinkyid1 by s103d190-u2.interdata.vn with local (Exim 4.96.2)
+	(envelope-from <pinkyid1@s103d190-u2.interdata.vn>)
+	id 1rxl18-00ALT7-0F
+	for chikhanh77677@gmail.com;
+	Fri, 19 Apr 2024 16:58:50 +0700
+To: chikhanh77677@gmail.com
+Subject: New WordPress Site
+X-PHP-Script: pinky204.id.vn/wp-admin/install.php for 27.74.105.139
+X-PHP-Filename: /home/pinkyid1/public_html/wp-admin/install.php REMOTE_ADDR: 27.74.105.139
+Date: Fri, 19 Apr 2024 09:58:49 +0000
+From: WordPress <wordpress@pinky204.id.vn>
+Message-ID: <As3Jz4pjI2IexwcBahRKmrsz94JQIFCPSKsXhG4Iug@pinky204.id.vn>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Your new WordPress site has been successfully set up at:
+
+http://pinky204.id.vn
+
+You can log in to the administrator account with the following information:
+
+Username: admin
+Password: The password you chose during installation.
+Log in here: http://pinky204.id.vn/wp-login.php
+
+We hope you enjoy your new site. Thanks!
+
+--The WordPress Team
+https://wordpress.org/
+
+
+--1713520731-eximdsn-295856223--

@@ -1,0 +1,128 @@
+@use "../../utilities/variables" as ut;
+
+.new-post {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1140px;
+  height: 380px;
+  flex-shrink: 0;
+  position: relative;
+  border-radius: 16px;
+  border: 1px solid #e5eaf4;
+  background: #fff;
+  box-shadow: 0px 10px 35px 0px rgba(0, 0, 0, 0.03);
+  top: -100px;
+  left: 50%;
+  transform: translateX(-50%);
+  overflow: hidden;
+
+  &__image {
+    width: 100%;
+    height: 100%;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  &__content {
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  &__new {
+    width: 102px;
+    height: 32px;
+    flex-shrink: 0;
+    color: ut.$blue-color;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: normal;
+    border-radius: 4px;
+    padding: 3px;
+    background-color: #36b37f24;
+    margin-bottom: 16px;
+  }
+
+  &__title {
+    color: #183b56;
+    font-family: "Gotham Serif", sans-serif;
+    text-decoration: none;
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 133.333% */
+    letter-spacing: 0.2px;
+  }
+
+  &__desc {
+    color: #5a7184;
+    font-family: "Open Sans";
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 177.778% */
+    margin-bottom: 45px;
+  }
+
+  &__img {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  &__avt {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    overflow: hidden;
+    border-radius: 100rem;
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  &__name {
+    color: #183b56;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    cursor: pointer;
+  }
+
+  &__author {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__date {
+    color: #5a7184;
+    text-align: right;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+}
+
+@media screen and (min-width: 480px) and (max-width: 1279px) {
+  .new-post {
+    width: 800px;
+    height: 300px;
+  }
+}

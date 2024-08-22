@@ -1,0 +1,120 @@
+
+---Downloaded files---
+The import files for: Nest Demo (Home 4 , 5 , 6) were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://pinky204.id.vn
+Data file = /home/pinkyid1/public_html/wp-content/themes/steelthemes-nest/includes/Demo_content/demo-content-2/demo-content-2.xml
+Widget file = /home/pinkyid1/public_html/wp-content/themes/steelthemes-nest/includes/Demo_content/demo-content-2/widget-2.wie
+Customizer file = not defined!
+Redux files:
+nest_theme_mod -> /home/pinkyid1/public_html/wp-content/themes/steelthemes-nest/includes/Demo_content/demo-content-2/redux-2.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Page Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Danh sách các sản phẩm - Trending Now - Imported
+Block - No Title - Imported
+
+Shop Sidebar : 
+
+Block - No Title - Imported
+Danh sách các sản phẩm - Products - Imported
+Nest - Product Banner  -  Save 17% &lt;br&gt;
+ on &lt;span class=&quot;text-brand&quot;&gt;Oganic&lt;/span&gt;&lt;br&gt;
+Juice
+ - Imported
+
+Filter Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: nest_theme_mod finished successfully!
+
+---ocdi/after_import---
+

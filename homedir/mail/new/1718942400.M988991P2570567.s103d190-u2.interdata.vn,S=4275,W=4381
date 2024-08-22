@@ -1,0 +1,106 @@
+Return-Path: <>
+Delivered-To: pinkyid1@s103d190-u2.interdata.vn
+Received: from s103d190-u2.interdata.vn
+	by s103d190-u2.interdata.vn with LMTP
+	id SBDDOcD6dGZHOScAAflTLA
+	(envelope-from <>)
+	for <pinkyid1@s103d190-u2.interdata.vn>; Fri, 21 Jun 2024 04:00:00 +0000
+Return-path: <>
+Envelope-to: pinkyid1@s103d190-u2.interdata.vn
+Delivery-date: Fri, 21 Jun 2024 11:00:00 +0700
+Received: from mailnull by s103d190-u2.interdata.vn with local (Exim 4.97.1)
+	id 1sKVRQ-0000000AwxY-3sUG
+	for pinkyid1@s103d190-u2.interdata.vn;
+	Fri, 21 Jun 2024 11:00:00 +0700
+X-Failed-Recipients: vanhuong77677@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@s103d190-u2.interdata.vn>
+To: pinkyid1@s103d190-u2.interdata.vn
+References: <dqjgi1eVu9pQILLNuaS6BlKxrr4D1GwpF8PrKuYU@pinky204.id.vn>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1718942400-eximdsn-937439515
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sKVRQ-0000000AwxY-3sUG@s103d190-u2.interdata.vn>
+Date: Fri, 21 Jun 2024 11:00:00 +0700
+
+--1718942400-eximdsn-937439515
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  vanhuong77677@gmail.com
+    host gmail-smtp-in.l.google.com [142.251.170.27]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Your email has been blocked because the sender is unauthenticated.
+    550-5.7.26 Gmail requires all senders to authenticate with either SPF or DKIM.
+    550-5.7.26
+    550-5.7.26  Authentication results:
+    550-5.7.26  DKIM = did not pass
+    550-5.7.26  SPF [s103d190-u2.interdata.vn] with ip:
+    [103.169.35.190] = did not
+    550-5.7.26 pass
+    550-5.7.26
+    550-5.7.26  For instructions on setting up authentication, go to
+    550 5.7.26  https://support.google.com/mail/answer/81126#authentication 98e67ed59e1d1-2c819dcc6aesi679917a91.142 - gsmtp
+
+--1718942400-eximdsn-937439515
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; s103d190-u2.interdata.vn
+
+Action: failed
+Final-Recipient: rfc822;vanhuong77677@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Your email has been blocked because the sender is unauthenticated.
+ 550-5.7.26 Gmail requires all senders to authenticate with either SPF or DKIM.
+ 550-5.7.26
+ 550-5.7.26  Authentication results:
+ 550-5.7.26  DKIM = did not pass
+ 550-5.7.26  SPF [s103d190-u2.interdata.vn] with ip: [103.169.35.190] = did not
+ 550-5.7.26 pass
+ 550-5.7.26
+ 550-5.7.26  For instructions on setting up authentication, go to
+ 550 5.7.26  https://support.google.com/mail/answer/81126#authentication 98e67ed59e1d1-2c819dcc6aesi679917a91.142 - gsmtp
+
+--1718942400-eximdsn-937439515
+Content-type: message/rfc822
+
+Return-path: <pinkyid1@s103d190-u2.interdata.vn>
+Received: from pinkyid1 by s103d190-u2.interdata.vn with local (Exim 4.97.1)
+	(envelope-from <pinkyid1@s103d190-u2.interdata.vn>)
+	id 1sKVRO-0000000Awvr-1LFo
+	for vanhuong77677@gmail.com;
+	Fri, 21 Jun 2024 10:59:58 +0700
+To: vanhuong77677@gmail.com
+Subject: =?UTF-8?Q?Trang_web_m=E1=BB=9Bi_d=C3=B9ng_WordPress?=
+X-PHP-Script: pinky204.id.vn/wp-admin/install.php for 27.74.216.138
+X-PHP-Filename: /home/pinkyid1/public_html/wp-admin/install.php REMOTE_ADDR: 27.74.216.138
+Date: Fri, 21 Jun 2024 03:59:58 +0000
+From: WordPress <wordpress@pinky204.id.vn>
+Message-ID: <dqjgi1eVu9pQILLNuaS6BlKxrr4D1GwpF8PrKuYU@pinky204.id.vn>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Website WordPress của bạn đã được cài đặt thành công tại:
+
+https://pinky204.id.vn
+
+Bạn có thể đăng nhập bằng tài khoản quản trị với thông tin sau:
+
+Tài khoản: admin
+Mật khẩu: Mật khẩu bạn chọn trong quá trình cài đặt.
+Địa chỉ đăng nhập: https://pinky204.id.vn/wp-login.php
+
+Hi vọng bạn sẽ có trải nghiệm tốt với website mới. Xin cảm ơn!
+
+--WordPress Việt Nam
+https://vi.wordpress.org/
+
+
+--1718942400-eximdsn-937439515--

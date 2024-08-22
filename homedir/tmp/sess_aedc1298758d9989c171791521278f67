@@ -1,0 +1,439 @@
+ PMA_token |s:32:"507d2c2545416027226e5a7869322834"; HMAC_secret |s:16:"KQ[Px_Mq.337+EaV";auth_type|s:3:"env";browser_access_time|a:1:{s:7:"default";i:1713520839;}encryption_key|s:32:"P����Pcr掙�]8�7?u���.�i!QQ���";relation|a:1:{i:1;a:41:{s:7:"version";s:5:"5.2.1";s:4:"user";N;s:2:"db";N;s:8:"bookmark";N;s:15:"central_columns";N;s:11:"column_info";N;s:17:"designer_settings";N;s:16:"export_templates";N;s:8:"favorite";N;s:7:"history";N;s:16:"navigationhiding";N;s:9:"pdf_pages";N;s:6:"recent";N;s:8:"relation";N;s:13:"savedsearches";N;s:12:"table_coords";N;s:10:"table_info";N;s:13:"table_uiprefs";N;s:8:"tracking";N;s:10:"userconfig";N;s:10:"usergroups";N;s:5:"users";N;s:12:"bookmarkwork";b:0;s:8:"mimework";b:0;s:18:"centralcolumnswork";b:0;s:8:"commwork";b:0;s:9:"menuswork";b:0;s:20:"designersettingswork";b:0;s:11:"displaywork";b:0;s:19:"exporttemplateswork";b:0;s:12:"favoritework";b:0;s:7:"navwork";b:0;s:7:"pdfwork";b:0;s:10:"recentwork";b:0;s:7:"relwork";b:0;s:17:"savedsearcheswork";b:0;s:11:"historywork";b:0;s:12:"trackingwork";b:0;s:11:"uiprefswork";b:0;s:14:"userconfigwork";b:0;s:8:"allworks";b:0;}}userconfig|a:2:{s:2:"db";a:2:{s:4:"lang";s:2:"vi";s:12:"Console/Mode";s:8:"collapse";}s:2:"ts";i:1713520828;}two_factor_check|b:1;cache|a:2:{s:8:"server_1";a:4:{s:15:"userprefs_mtime";i:1713520828;s:14:"userprefs_type";s:7:"session";s:12:"config_mtime";i:1712713666;s:9:"userprefs";a:2:{s:4:"lang";s:2:"vi";s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}}}s:25:"server_1_cpses_piisrzyi46";a:18:{s:17:"is_create_db_priv";b:0;s:14:"is_reload_priv";b:0;s:12:"db_to_create";s:0:"";s:30:"dbs_where_create_table_allowed";a:1:{i:0;s:7:"ps29467";}s:11:"dbs_to_test";b:0;s:9:"proc_priv";b:0;s:10:"table_priv";b:0;s:8:"col_priv";b:0;s:7:"db_priv";b:0;s:11:"binary_logs";a:0:{}s:18:"menu-levels-server";a:13:{s:9:"databases";s:20:"Cơ sở dữ liệu";s:3:"sql";s:3:"SQL";s:6:"status";s:13:"Tình trạng";s:6:"rights";s:14:"Người dùng";s:6:"export";s:6:"Xuất";s:6:"import";s:6:"Nhập";s:8:"settings";s:11:"Cài đặt";s:6:"binlog";s:22:"Nhật ký nhị phân";s:11:"replication";s:9:"Bản sao";s:4:"vars";s:6:"Biến";s:7:"charset";s:10:"Bảng mã";s:7:"plugins";s:16:"Phần bổ sung";s:6:"engine";s:9:"Bộ máy";}s:14:"menu-levels-db";a:14:{s:9:"structure";s:11:"Cấu trúc";s:3:"sql";s:3:"SQL";s:6:"search";s:11:"Tìm kiếm";s:5:"query";s:10:"Truy vấn";s:6:"export";s:6:"Xuất";s:6:"import";s:6:"Nhập";s:9:"operation";s:9:"Thao tác";s:10:"privileges";s:14:"Đặc quyền";s:8:"routines";s:11:"Thủ tục";s:6:"events";s:11:"Sự kiện";s:8:"triggers";s:5:"Bẫy";s:8:"tracking";s:9:"Theo dõi";s:8:"designer";s:17:"Bộ thiết kế";s:15:"central_columns";s:21:"Các cột trung tâm";}s:19:"profiling_supported";b:1;s:17:"menu-levels-table";a:11:{s:6:"browse";s:7:"Duyệt";s:9:"structure";s:11:"Cấu trúc";s:3:"sql";s:3:"SQL";s:6:"search";s:11:"Tìm kiếm";s:6:"insert";s:5:"Chèn";s:6:"export";s:6:"Xuất";s:6:"import";s:6:"Nhập";s:10:"privileges";s:14:"Đặc quyền";s:9:"operation";s:9:"Thao tác";s:8:"tracking";s:9:"Theo dõi";s:8:"triggers";s:5:"Bẫy";}s:12:"is_superuser";b:0;s:14:"mysql_cur_user";s:26:"cpses_piisrzyi46@localhost";s:12:"is_grantuser";b:0;s:13:"is_createuser";b:0;}}tmpval|a:16:{s:14:"favoriteTables";a:1:{i:1;a:0:{}}s:12:"recentTables";a:1:{i:1;a:2:{i:0;a:2:{s:2:"db";s:7:"ps29467";s:5:"table";s:15:"KhEI5vN_options";}i:1;a:2:{s:2:"db";s:7:"ps29467";s:5:"table";s:13:"KhEI5vN_links";}}}s:18:"table_limit_offset";i:0;s:21:"table_limit_offset_db";s:7:"ps29467";s:5:"query";a:10:{s:32:"c56839f4d1b2179db53a00fdd47bdb9a";a:8:{s:3:"sql";s:65:"/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"dc836827a57da256ad52ac49024e2d06";a:8:{s:3:"sql";s:67:"/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"32be42254fbd833fa074446eafa4e98f";a:8:{s:3:"sql";s:65:"/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"ba3ee0b441b06f639c1305b35287a721";a:8:{s:3:"sql";s:30:"/*!40101 SET NAMES utf8mb4 */;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"1b1ff6c39fef3097e3302731fc4e4a45";a:8:{s:3:"sql";s:29268:"--
+-- Cơ sở dữ liệu: `admin`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_actionscheduler_actions`
+--
+-- Error reading structure for table admin.wp_actionscheduler_actions: #1932 - Table &#039;admin.wp_actionscheduler_actions&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_actionscheduler_actions: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_actionscheduler_actions`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_actionscheduler_claims`
+--
+-- Error reading structure for table admin.wp_actionscheduler_claims: #1932 - Table &#039;admin.wp_actionscheduler_claims&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_actionscheduler_claims: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_actionscheduler_claims`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_actionscheduler_groups`
+--
+-- Error reading structure for table admin.wp_actionscheduler_groups: #1932 - Table &#039;admin.wp_actionscheduler_groups&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_actionscheduler_groups: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_actionscheduler_groups`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_actionscheduler_logs`
+--
+-- Error reading structure for table admin.wp_actionscheduler_logs: #1932 - Table &#039;admin.wp_actionscheduler_logs&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_actionscheduler_logs: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_actionscheduler_logs`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_commentmeta`
+--
+-- Error reading structure for table admin.wp_commentmeta: #1932 - Table &#039;admin.wp_commentmeta&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_commentmeta: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_commentmeta`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_comments`
+--
+-- Error reading structure for table admin.wp_comments: #1932 - Table &#039;admin.wp_comments&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_comments: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_comments`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_e_events`
+--
+-- Error reading structure for table admin.wp_e_events: #1932 - Table &#039;admin.wp_e_events&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_e_events: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_e_events`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_e_submissions`
+--
+-- Error reading structure for table admin.wp_e_submissions: #1932 - Table &#039;admin.wp_e_submissions&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_e_submissions: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_e_submissions`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_e_submissions_actions_log`
+--
+-- Error reading structure for table admin.wp_e_submissions_actions_log: #1932 - Table &#039;admin.wp_e_submissions_actions_log&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_e_submissions_actions_log: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_e_submissions_actions_log`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_e_submissions_values`
+--
+-- Error reading structure for table admin.wp_e_submissions_values: #1932 - Table &#039;admin.wp_e_submissions_values&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_e_submissions_values: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_e_submissions_values`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_links`
+--
+-- Error reading structure for table admin.wp_links: #1932 - Table &#039;admin.wp_links&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_links: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_links`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_options`
+--
+-- Error reading structure for table admin.wp_options: #1932 - Table &#039;admin.wp_options&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_options: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_options`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_postmeta`
+--
+-- Error reading structure for table admin.wp_postmeta: #1932 - Table &#039;admin.wp_postmeta&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_postmeta: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_postmeta`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_posts`
+--
+-- Error reading structure for table admin.wp_posts: #1932 - Table &#039;admin.wp_posts&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_posts: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_posts`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_termmeta`
+--
+-- Error reading structure for table admin.wp_termmeta: #1932 - Table &#039;admin.wp_termmeta&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_termmeta: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_termmeta`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_terms`
+--
+-- Error reading structure for table admin.wp_terms: #1932 - Table &#039;admin.wp_terms&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_terms: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_terms`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_term_relationships`
+--
+-- Error reading structure for table admin.wp_term_relationships: #1932 - Table &#039;admin.wp_term_relationships&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_term_relationships: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_term_relationships`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_term_taxonomy`
+--
+-- Error reading structure for table admin.wp_term_taxonomy: #1932 - Table &#039;admin.wp_term_taxonomy&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_term_taxonomy: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_term_taxonomy`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_usermeta`
+--
+-- Error reading structure for table admin.wp_usermeta: #1932 - Table &#039;admin.wp_usermeta&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_usermeta: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_usermeta`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_users`
+--
+-- Error reading structure for table admin.wp_users: #1932 - Table &#039;admin.wp_users&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_users: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_users`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_admin_notes`
+--
+-- Error reading structure for table admin.wp_wc_admin_notes: #1932 - Table &#039;admin.wp_wc_admin_notes&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_admin_notes: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_admin_notes`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_admin_note_actions`
+--
+-- Error reading structure for table admin.wp_wc_admin_note_actions: #1932 - Table &#039;admin.wp_wc_admin_note_actions&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_admin_note_actions: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_admin_note_actions`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_category_lookup`
+--
+-- Error reading structure for table admin.wp_wc_category_lookup: #1932 - Table &#039;admin.wp_wc_category_lookup&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_category_lookup: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_category_lookup`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_customer_lookup`
+--
+-- Error reading structure for table admin.wp_wc_customer_lookup: #1932 - Table &#039;admin.wp_wc_customer_lookup&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_customer_lookup: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_customer_lookup`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_download_log`
+--
+-- Error reading structure for table admin.wp_wc_download_log: #1932 - Table &#039;admin.wp_wc_download_log&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_download_log: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_download_log`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_orders`
+--
+-- Error reading structure for table admin.wp_wc_orders: #1932 - Table &#039;admin.wp_wc_orders&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_orders: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_orders`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_orders_meta`
+--
+-- Error reading structure for table admin.wp_wc_orders_meta: #1932 - Table &#039;admin.wp_wc_orders_meta&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_orders_meta: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_orders_meta`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_order_addresses`
+--
+-- Error reading structure for table admin.wp_wc_order_addresses: #1932 - Table &#039;admin.wp_wc_order_addresses&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_order_addresses: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_order_addresses`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_order_coupon_lookup`
+--
+-- Error reading structure for table admin.wp_wc_order_coupon_lookup: #1932 - Table &#039;admin.wp_wc_order_coupon_lookup&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_order_coupon_lookup: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_order_coupon_lookup`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_order_operational_data`
+--
+-- Error reading structure for table admin.wp_wc_order_operational_data: #1932 - Table &#039;admin.wp_wc_order_operational_data&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_order_operational_data: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_order_operational_data`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_order_product_lookup`
+--
+-- Error reading structure for table admin.wp_wc_order_product_lookup: #1932 - Table &#039;admin.wp_wc_order_product_lookup&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_order_product_lookup: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_order_product_lookup`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_order_stats`
+--
+-- Error reading structure for table admin.wp_wc_order_stats: #1932 - Table &#039;admin.wp_wc_order_stats&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_order_stats: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_order_stats`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_order_tax_lookup`
+--
+-- Error reading structure for table admin.wp_wc_order_tax_lookup: #1932 - Table &#039;admin.wp_wc_order_tax_lookup&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_order_tax_lookup: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_order_tax_lookup`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_product_attributes_lookup`
+--
+-- Error reading structure for table admin.wp_wc_product_attributes_lookup: #1932 - Table &#039;admin.wp_wc_product_attributes_lookup&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_product_attributes_lookup: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_product_attributes_lookup`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_product_download_directories`
+--
+-- Error reading structure for table admin.wp_wc_product_download_directories: #1932 - Table &#039;admin.wp_wc_product_download_directories&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_product_download_directories: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_product_download_directories`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_product_meta_lookup`
+--
+-- Error reading structure for table admin.wp_wc_product_meta_lookup: #1932 - Table &#039;admin.wp_wc_product_meta_lookup&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_product_meta_lookup: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_product_meta_lookup`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_rate_limits`
+--
+-- Error reading structure for table admin.wp_wc_rate_limits: #1932 - Table &#039;admin.wp_wc_rate_limits&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_rate_limits: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_rate_limits`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_reserved_stock`
+--
+-- Error reading structure for table admin.wp_wc_reserved_stock: #1932 - Table &#039;admin.wp_wc_reserved_stock&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_reserved_stock: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_reserved_stock`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_tax_rate_classes`
+--
+-- Error reading structure for table admin.wp_wc_tax_rate_classes: #1932 - Table &#039;admin.wp_wc_tax_rate_classes&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_tax_rate_classes: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_tax_rate_classes`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_wc_webhooks`
+--
+-- Error reading structure for table admin.wp_wc_webhooks: #1932 - Table &#039;admin.wp_wc_webhooks&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_wc_webhooks: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_wc_webhooks`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_api_keys`
+--
+-- Error reading structure for table admin.wp_woocommerce_api_keys: #1932 - Table &#039;admin.wp_woocommerce_api_keys&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_api_keys: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_api_keys`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_attribute_taxonomies`
+--
+-- Error reading structure for table admin.wp_woocommerce_attribute_taxonomies: #1932 - Table &#039;admin.wp_woocommerce_attribute_taxonomies&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_attribute_taxonomies: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_attribute_taxonomies`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_downloadable_product_permissions`
+--
+-- Error reading structure for table admin.wp_woocommerce_downloadable_product_permissions: #1932 - Table &#039;admin.wp_woocommerce_downloadable_product_permissions&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_downloadable_product_permissions: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_downloadable_product_permissions`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_log`
+--
+-- Error reading structure for table admin.wp_woocommerce_log: #1932 - Table &#039;admin.wp_woocommerce_log&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_log: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_log`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_order_itemmeta`
+--
+-- Error reading structure for table admin.wp_woocommerce_order_itemmeta: #1932 - Table &#039;admin.wp_woocommerce_order_itemmeta&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_order_itemmeta: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_order_itemmeta`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_order_items`
+--
+-- Error reading structure for table admin.wp_woocommerce_order_items: #1932 - Table &#039;admin.wp_woocommerce_order_items&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_order_items: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_order_items`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_payment_tokenmeta`
+--
+-- Error reading structure for table admin.wp_woocommerce_payment_tokenmeta: #1932 - Table &#039;admin.wp_woocommerce_payment_tokenmeta&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_payment_tokenmeta: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_payment_tokenmeta`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_payment_tokens`
+--
+-- Error reading structure for table admin.wp_woocommerce_payment_tokens: #1932 - Table &#039;admin.wp_woocommerce_payment_tokens&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_payment_tokens: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_payment_tokens`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_sessions`
+--
+-- Error reading structure for table admin.wp_woocommerce_sessions: #1932 - Table &#039;admin.wp_woocommerce_sessions&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_sessions: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_sessions`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_shipping_zones`
+--
+-- Error reading structure for table admin.wp_woocommerce_shipping_zones: #1932 - Table &#039;admin.wp_woocommerce_shipping_zones&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_shipping_zones: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_shipping_zones`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_shipping_zone_locations`
+--
+-- Error reading structure for table admin.wp_woocommerce_shipping_zone_locations: #1932 - Table &#039;admin.wp_woocommerce_shipping_zone_locations&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_shipping_zone_locations: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_shipping_zone_locations`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_shipping_zone_methods`
+--
+-- Error reading structure for table admin.wp_woocommerce_shipping_zone_methods: #1932 - Table &#039;admin.wp_woocommerce_shipping_zone_methods&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_shipping_zone_methods: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_shipping_zone_methods`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_tax_rates`
+--
+-- Error reading structure for table admin.wp_woocommerce_tax_rates: #1932 - Table &#039;admin.wp_woocommerce_tax_rates&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_tax_rates: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_tax_rates`&#039; at line 1
+
+-- --------------------------------------------------------
+
+--
+-- Cấu trúc bảng cho bảng `wp_woocommerce_tax_rate_locations`
+--
+-- Error reading structure for table admin.wp_woocommerce_tax_rate_locations: #1932 - Table &#039;admin.wp_woocommerce_tax_rate_locations&#039; doesn&#039;t exist in engine
+-- Error reading data for table admin.wp_woocommerce_tax_rate_locations: #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near &#039;FROM `admin`.`wp_woocommerce_tax_rate_locations`&#039; at line 1
+COMMIT;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"cb293d3a5c6c2f052f2f39ce44fc3763";a:8:{s:3:"sql";s:63:"/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"7c42938d0b7656a60fb99458c4993941";a:8:{s:3:"sql";s:65:"/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"9c9b35a19bc053dbc9672dbf367614c4";a:8:{s:3:"sql";s:63:"/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"799209595ce2531982724214a743bc75";a:8:{s:3:"sql";s:29:"SELECT * FROM `KhEI5vN_links`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"8cc82a9a50b788492459603b78830ea4";a:8:{s:3:"sql";s:31:"SELECT * FROM `KhEI5vN_options`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}}s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;s:12:"display_blob";b:0;s:19:"hide_transformation";b:0;s:3:"pos";i:0;s:8:"max_rows";i:25;s:12:"repeat_cells";i:100;s:13:"table_uiprefs";a:1:{i:1;a:1:{s:7:"ps29467";a:2:{s:13:"KhEI5vN_links";a:0:{}s:15:"KhEI5vN_options";a:0:{}}}}s:20:"possible_as_geometry";b:1;}git_location|N;is_git_revision|b:0;ConfigFile1|a:4:{s:28:"PmaNoRelation_DisableWarning";b:1;s:12:"ShowCreateDb";b:0;s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}s:7:"Servers";a:1:{i:1;a:2:{s:7:"only_db";s:0:"";s:7:"hide_db";s:0:"";}}}debug|a:0:{}flashMessages|a:0:{}__upload_status|a:1:{s:7:"handler";s:47:"PhpMyAdmin\Plugins\Import\Upload\UploadNoplugin";}Import_message|a:2:{s:7:"message";s:242:"<div class="alert alert-success" role="alert">
+  <img src="themes/dot.gif" title="" alt="" class="icon ic_s_success"> <em>Việc nhập vào đã được thực hiện thành công, 11 truy vấn đã thực thi.</em> (admin (1).sql)
+</div>
+";s:11:"go_back_url";s:43:"index.php?route=/database/import&db=ps29467";}is_multi_query|b:0;sql_history|a:3:{i:0;a:3:{s:2:"db";s:7:"ps29467";s:5:"table";s:0:"";s:8:"sqlquery";s:63:"/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;";}i:1;a:3:{s:2:"db";s:7:"ps29467";s:5:"table";s:13:"KhEI5vN_links";s:8:"sqlquery";s:29:"SELECT * FROM `KhEI5vN_links`";}i:2;a:3:{s:2:"db";s:7:"ps29467";s:5:"table";s:15:"KhEI5vN_options";s:8:"sqlquery";s:31:"SELECT * FROM `KhEI5vN_options`";}}errors|a:0:{}

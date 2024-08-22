@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/pinkyid1/public_html
+group: pinkyid1
+hascgi: 1
+homedir: /home/pinkyid1
+ip: 103.169.35.190
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@pinky204.id.vn
+serveralias: mail.pinky204.id.vn www.pinky204.id.vn
+servername: pinky204.id.vn
+ssl: 1
+usecanonicalname: 'Off'
+user: pinkyid1
+userdirprotect: ''
